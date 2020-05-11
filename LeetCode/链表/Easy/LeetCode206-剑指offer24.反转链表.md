@@ -1,8 +1,8 @@
 <!-- TOC -->
 
 - [LeetCode206/剑指offer24.反转链表](#leetcode206剑指offer24反转链表)
-  - [Tag](#tag)
   - [题目描述](#题目描述)
+  - [Tag](#tag)
   - [参考解法](#参考解法)
     - [方法一：迭代](#方法一迭代)
       - [复杂度分析](#复杂度分析)
@@ -13,12 +13,14 @@
 
 <!-- /TOC -->
 # LeetCode206/剑指offer24.反转链表
+## 题目描述
+- [LeetCode206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+
+![](https://picgp.oss-cn-beijing.aliyuncs.com/img/20200512010612.png)
+
 ## Tag
 - 链表
 - 递归
-## 题目描述
-- [LeetCode206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
-![](https://picgp.oss-cn-beijing.aliyuncs.com/img/20200510042838.png)
 ## 参考解法
 ### 方法一：迭代
 ```python

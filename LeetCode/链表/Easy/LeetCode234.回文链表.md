@@ -13,10 +13,11 @@
 # LeetCode234.回文链表
 ## 题目描述
 - [LeetCode234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/solution/hui-wen-lian-biao-by-leetcode/)
-![](https://picgp.oss-cn-beijing.aliyuncs.com/img/20200512005322.png)
+![](https://picgp.oss-cn-beijing.aliyuncs.com/img/20200512010234.png)
 ## Tag
 - 链表
 - 双指针
+- 递归
 ## 参考解法
 ### 方法一:将值复制到数组中后用双指针法
 ```python
