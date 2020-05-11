@@ -87,12 +87,6 @@ class Node(object):
         self.value = value
         self.next = next
 
-    def __str__(self):
-        """方便你打出来调试，复杂的代码可能需要断点调试"""
-        return '<Node: value: {}, next={}>'.format(self.value, self.next)
-
-    __repr__ = __str__
-
 
 class LinkedList(object):
     """ 链接表 ADT
